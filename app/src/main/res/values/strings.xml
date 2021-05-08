@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Selfie Segmentation</string>
+    <string name="choose_display_mode">Choose the display mode</string>
+    <string name="btn_default">Default</string>
+    <string name="btn_mask">Mask</string>
+    <string name="btn_custom_bg">Custom background</string>
+    <string name="choose_images">Choose your images</string>
+    <string name="select_front">Select front</string>
+    <string name="select_bg">Select background</string>
+</resources>
