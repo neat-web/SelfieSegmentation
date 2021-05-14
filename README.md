@@ -11,17 +11,17 @@ The user can choose a front and a background image from his library. Then the im
 ### Default mode
 Displays the chosen front image.
 
-<img src="/doc/default.png" width="300">
+<img src="doc/default.png" width="300">
 
 ### Mask mode
 Shows the front image and highlights the detected background of the segmentation mask as a green overlay.
 
-<img src="/doc/mask.png" width="300">
+<img src="doc/mask.png" width="300">
 
 ### Custom background mode
 Shows the front image and uses the detected segmentation mask to overlay the background image.
 
-<img src="/doc/custom_bg.png" width="300">
+<img src="doc/custom_bg.png" width="300">
 
 ## Limitations
 Since processing of a large image can take quite some time a selected image is resized to the current screen width.
